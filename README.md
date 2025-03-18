@@ -1,4 +1,4 @@
 # himanshu-demo
 This is my first git repository.
 <br>
-Author - Himanshu Kr. Gupta
+Author - Himanshu (Apna Collage)
